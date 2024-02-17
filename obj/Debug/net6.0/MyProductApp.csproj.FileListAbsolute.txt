@@ -1,0 +1,15 @@
+D:\dotNet\Testing\MyProductApp\MyProductApp\bin\Debug\net6.0\MyProductApp.exe
+D:\dotNet\Testing\MyProductApp\MyProductApp\bin\Debug\net6.0\MyProductApp.deps.json
+D:\dotNet\Testing\MyProductApp\MyProductApp\bin\Debug\net6.0\MyProductApp.runtimeconfig.json
+D:\dotNet\Testing\MyProductApp\MyProductApp\bin\Debug\net6.0\MyProductApp.dll
+D:\dotNet\Testing\MyProductApp\MyProductApp\bin\Debug\net6.0\MyProductApp.pdb
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.AssemblyInfoInputs.cache
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.AssemblyInfo.cs
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.sourcelink.json
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.dll
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\refint\MyProductApp.dll
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.pdb
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\MyProductApp.genruntimeconfig.cache
+D:\dotNet\Testing\MyProductApp\MyProductApp\obj\Debug\net6.0\ref\MyProductApp.dll
