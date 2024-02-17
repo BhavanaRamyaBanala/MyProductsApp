@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using MyProductApp;
-
+Console.WriteLine("------------------");
 Console.WriteLine("** All Products **");
+Console.WriteLine("------------------");
 ProductManagement pm = new ProductManagement();
 foreach (var p in pm.allProducts())
 {
